@@ -1,0 +1,7 @@
+Analysis
+.vscode
+Output_Files/*
+*paths.txt
+!Output_Files/2025-04-24_19-19-32.947162
+!Output_Files/2025-04-24_19-19-32.947162/*
+__pycache__/RNAGraphs.cpython-37.pyc
