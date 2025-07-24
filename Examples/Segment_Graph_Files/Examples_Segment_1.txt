@@ -1,0 +1,7 @@
+#All-segment-graph
+0 0
+#All-segments
+1..8 10..17
+#PK-graph
+#PK-free-segment-graph
+0 0
